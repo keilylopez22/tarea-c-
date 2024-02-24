@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\bin\Debug\net8.0\tiposdedatos.exe
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\bin\Debug\net8.0\tiposdedatos.deps.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\bin\Debug\net8.0\tiposdedatos.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\bin\Debug\net8.0\tiposdedatos.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\bin\Debug\net8.0\tiposdedatos.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\refint\tiposdedatos.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\tiposdedatos.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\tiposdedatos\obj\Debug\net8.0\ref\tiposdedatos.dll

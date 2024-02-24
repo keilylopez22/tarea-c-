@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "miprimerprograma/1.0.0": {
+        "runtime": {
+          "miprimerprograma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "miprimerprograma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

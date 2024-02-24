@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\bin\Debug\net8.0\entradasalida.exe
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\bin\Debug\net8.0\entradasalida.deps.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\bin\Debug\net8.0\entradasalida.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\bin\Debug\net8.0\entradasalida.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\bin\Debug\net8.0\entradasalida.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\refint\entradasalida.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\entradasalida.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\entradasalida\obj\Debug\net8.0\ref\entradasalida.dll

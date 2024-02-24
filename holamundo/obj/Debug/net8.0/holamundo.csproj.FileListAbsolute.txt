@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\bin\Debug\net8.0\holamundo.exe
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\bin\Debug\net8.0\holamundo.deps.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\bin\Debug\net8.0\holamundo.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\bin\Debug\net8.0\holamundo.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\bin\Debug\net8.0\holamundo.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\refint\holamundo.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\holamundo.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\holamundo\obj\Debug\net8.0\ref\holamundo.dll

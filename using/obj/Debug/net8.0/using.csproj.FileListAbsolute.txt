@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\bin\Debug\net8.0\using.exe
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\bin\Debug\net8.0\using.deps.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\bin\Debug\net8.0\using.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\bin\Debug\net8.0\using.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\bin\Debug\net8.0\using.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\refint\using.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\using.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\using\obj\Debug\net8.0\ref\using.dll

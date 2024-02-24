@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\bin\Debug\net8.0\leerteclado.exe
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\bin\Debug\net8.0\leerteclado.deps.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\bin\Debug\net8.0\leerteclado.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\bin\Debug\net8.0\leerteclado.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\bin\Debug\net8.0\leerteclado.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\refint\leerteclado.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\leerteclado.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\leerteclado\obj\Debug\net8.0\ref\leerteclado.dll
