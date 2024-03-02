@@ -1,0 +1,15 @@
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\bin\Debug\net8.0\calculador.exe
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\bin\Debug\net8.0\calculador.deps.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\bin\Debug\net8.0\calculador.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\bin\Debug\net8.0\calculador.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\bin\Debug\net8.0\calculador.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.sourcelink.json
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\refint\calculador.dll
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.pdb
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\calculador.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\clasesc#\calculador\obj\Debug\net8.0\ref\calculador.dll
